@@ -1,4 +1,4 @@
-# Xilinx-JTAG-pitch-adapter
+# Xilinx JTAG pitch adapter
 
 Quite a lot of Xilinx SoCs use a 14 pin JTAG connection in order to program the target device.
 However, the pitch can vary. For instance, the JTAG-HS3 developed by Digilent has 2.0mm pitch between each adjacent pin
