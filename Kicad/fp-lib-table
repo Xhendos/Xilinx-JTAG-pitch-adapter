@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "2mm-connector")(type "KiCad")(uri "${KIPRJMOD}/Library/2mm-connector/easyeda2kicad.pretty")(options "")(descr ""))
+)
